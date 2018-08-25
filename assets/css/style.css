@@ -236,9 +236,12 @@ body {
       width:50% ;
       height: 50%;
     }
-    .work image {
-      float: right;
+    .work {
+      margin: 0;
+      padding: 0;
+    
     }
+
     nav {
       margin-right: 2%;
      }
